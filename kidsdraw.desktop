@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=kidsdraw
+Exec=/usr/bin/qmlscene $@ /usr/share/kidsdraw/kidsdraw.qml
+Icon=kidsdraw.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

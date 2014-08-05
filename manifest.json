@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of kidsdraw",
+    "framework": "ubuntu-sdk-14.04-dev1",
+    "hooks": {
+        "kidsdraw": {
+            "apparmor": "kidsdraw.json",
+            "desktop": "kidsdraw.desktop"
+        }
+    },
+    "maintainer": "Intirix",
+    "name": "com.intirix.kidsdraw",
+    "title": "kidsdraw",
+    "version": "0.1"
+}
